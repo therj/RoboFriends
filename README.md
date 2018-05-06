@@ -4,7 +4,7 @@
 
 Uses [create-react-app](https://github.com/facebook/create-react-app)
 
-Data from [JSON Placeholder API]([https://jsonplaceholder.typicode.com).
+Data from [JSON Placeholder API](https://jsonplaceholder.typicode.com).
 
 Robot images from [RoboHash](https://robohash.org).
 

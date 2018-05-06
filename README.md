@@ -10,6 +10,20 @@ Robot images from [RoboHash](https://robohash.org).
 
 [Tachyons](http://tachyons.io) for styling.
 
+## Screenshots
+
+### Homepage:
+
+![Home](./screenshots/robofriends1.png)
+
+### Search Results:
+
+![Home](./screenshots/robofriends2.png)
+
+### No Search Results:
+
+![Home](./screenshots/robofriends3.png)
+
 ## Available Scripts
 
 In the project directory, you can run:

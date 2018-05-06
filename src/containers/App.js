@@ -28,7 +28,6 @@ class App extends Component {
   }
 
   render() {
-    const d = new Date()
     const { robots, searchfield } = this.state
     const filteredRobots = robots.filter(robot => {
       return robot.name.toLowerCase().includes(searchfield.toLowerCase())
@@ -44,7 +43,7 @@ class App extends Component {
         <Title />
         <SearchBox searchChange={this.onSearchChange} />
         <CardList robots={filteredRobots} />
-        <h2>therj ({d.getFullYear()})</h2>
+        <h2> therj ({new Date().getFullYear()}) </h2>
       </div>
     )
   }

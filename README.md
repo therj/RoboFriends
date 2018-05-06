@@ -14,15 +14,15 @@ Robot images from [RoboHash](https://robohash.org).
 
 ### Homepage
 
-![Home](./screenshots/robofriends1.png)
+![](screenshots/robofriends1.PNG)
 
 ### Search Results
 
-![Home](./screenshots/robofriends2.png)
+![](screenshots/robofriends1.PNG)
 
 ### No Search Results
 
-![Home](./screenshots/robofriends3.png)
+![](screenshots/robofriends1.PNG)
 
 ## Available Scripts
 
